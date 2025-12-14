@@ -126,7 +126,6 @@ You should see server startup logs. Press `Ctrl+C` to stop.
       "args": [
         "run",
         "C:\\absolute\\path\\to\\flutter_mcp_server\\bin\\server.dart",
-        "--mcp-stdio-mode"
       ]
     }
   }
